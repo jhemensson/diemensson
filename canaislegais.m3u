@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.otvfoco.com.br/2019/09/a-fazenda-2-768x488.png"group-title="CANAIS DE TV",A FAZENDA
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Ce0126129ff658f4006543d66b4c77026%3Bbase64np%3B2r9MCGZEBympgLA%21/amlst%3A2r-0EXsPAii2wDwD/chunklist_b507904.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.areavip.com.br/wp-content/uploads/2019/09/a-fazenda-11-logo-630x420.jpg"group-title="",A FAZENDA
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Ce0126129ff658f4006543d66b4c77026%3Bbase64np%3B2r9MCGZEBympgLA%21/amlst%3A2r-0EXsPAii2wDwD/chunklist_b865280.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.otvfoco.com.br/2017/06/capture-20170607-114325.png"group-title="",A FAZENDA 11
+https://cdnfe1.azureedge.net/hls1/afazenda.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2016/12/globo.png"group-title="",GLOBO SP
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"group-title="",SBT
+https://cdnfe1.azureedge.net/hls1/sbt.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"group-title="",RECORD SP
+https://cdnfe1.azureedge.net/hls1/recordsp.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.otvfoco.com.br/wp-content/uploads/2018/02/band-e1519172180661.png"group-title="",BAND
+https://cdnfe1.azureedge.net/hls1/band.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/ufc-combate-png-5.png"group-title="",COMBATE
+https://cdnfe1.azureedge.net/hls1/combate.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2016/04/fox.png"group-title="",FOX
+https://cdnfe1.azureedge.net/hls1/fox.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png"group-title="",FOX PREMIUM 1
+https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png"group-title="",FOX PREMIUM 2
+https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180613/urx/kisspng-fox-life-television-channel-fox-international-chan-canal-brasil-5b21000f4105e5.7879967315288893592663.jpg"group-title="",FOX LIFE
+https://cdnfe1.azureedge.net/hls1/foxlife.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/01/Megapix.jpg"group-title="",MEGAPIX
+https://cdnfe1.azureedge.net/hls1/megapix.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png"group-title="",TC PIPOCA
+https://cdnfe1.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Telecine_Fun.png"group-title="",TC FUN
+https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://blogtvcinema.files.wordpress.com/2017/01/tc_premium-e1485365134180.png"group-title="",TC PREMIUM
+https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="group-title="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg"",TC ACTION
+https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/928.jpg"group-title="",HBO
+https://cdnfe1.azureedge.net/hls1/hbo.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/928.jpg"group-title="",HBO 2
+https://cdnfe1.azureedge.net/hls1/hbo2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png"group-title="",HBO SIGNATURE
+https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/242.jpg"group-title="",HBO PLUS
+https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="http://accountnulled.com/wp-content/uploads/2019/08/HBO.png"group-title="",HBO PREMIUM 
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium1_1bdf1a2f_1fee7bd8d454fb53ca5ed3dc7311ec3341e994d2.m3u8
+
+#EXTINF:-1 tvg-logo="http://accountnulled.com/wp-content/uploads/2019/08/HBO.png"group-title="",HBO PREMIUM
+http://orcus.tvcast.xyz/hls/s:78.46.240.155/foxpremium1_1bdf1a2f_1fee7bd8d454fb53ca5ed3dc7311ec3341e994d2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x310.jpg.pagespeed.ic.v9VzJE9CCF.webp"group-title="",FX
+https://cdnfe1.azureedge.net/hls1/fx.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x3468.jpg.pagespeed.ic.KvpYw66RkQ.webp"group-title="",TLC
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/tlc_15aa0c7e_79aa32899106fb7ab9e38eb382e4fb5670dac225.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x4663.jpg.pagespeed.ic.0SE0PLbFP7.webp"group-title="",SPACE
+https://cdnfe1.azureedge.net/hls1/space.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x3744.jpg.pagespeed.ic.b3xDMU2FVW.webp"group-title="",GNT
+https://cdnfe1.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/max-prime-logo-0.png"group-title="",MAX PRIME
+https://cdnfe1.azureedge.net/hls1/maxprime.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x3926.jpg.pagespeed.ic.gpm0QO2isG.webp"group-title="",CINEMAX
+https://cdnfe1.azureedge.net/hls1/cinemax.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x111.jpg.pagespeed.ic.A3MQVrIcNY.webp"group-title="",SYFY
+https://cdnfe1.azureedge.net/hls1/syfy.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x2849.jpg.pagespeed.ic.DUKLp9tX7N.webp"group-title="",SONY
+https://cdnfe1.azureedge.net/hls1/sony.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo=""group-title="",PARAMOUNT CHANNEL
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/paramountchannel_efa260ad_ead85084d38994eaab779167241fb23bafdf3a3a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x3729.jpg.pagespeed.ic.CQ6GRH82Z7.webp"group-title="",UNIVERSAL CHANNEL
+https://cdnfe1.azureedge.net/hls1/universal.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x4751.jpg.pagespeed.ic.zw7B2hvwNl.webp"group-title="",FOOD NETWORK
+https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png"group-title="",STUDIO UNIVERSAL
+https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title="",TNT
+https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="",TCM
+https://cdnfe1.azureedge.net/hls1/tcm.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_IwELliRCik/VKgf-ULS2eI/AAAAAAAAkJo/jFaKYWhkDwk/s1600/cats.png"group-title="",MAX UP
+https://cdnfe1.azureedge.net/hls1/maxup.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180531/qbq/kisspng-logo-max-television-channel-musiqueplus-magic-5b1011dc74f099.094617861527779804479.jpg"group-title="",MAX
+https://cdnfe1.azureedge.net/hls1/max.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png"group-title="",PARAMOUNT CHANNEL
+https://cdnfe1.azureedge.net/hls1/paramount.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png"group-title="",ANIMAL PLANET
+https://cdnfe1.azureedge.net/hls1/animalplanet.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png"group-title="",NAT GEO WILD
+https://cdnfe1.azureedge.net/hls1/natgeowild.m3u8?wmsAuthSign=
